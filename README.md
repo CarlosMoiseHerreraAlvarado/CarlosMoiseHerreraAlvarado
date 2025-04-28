@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-header-image.png" alt="MoisesDev Banner" width="100%" />
+</p>
+
 # Hi, I'm MoisesDev 👋
 
 ## 🧑‍💻 Junior Full Stack Developer
@@ -30,3 +34,4 @@ Building practical software solutions and growing my skills every day.
 - Email: [carlos.herrera23@itca.edu.sv](mailto:carlos.herrera23@itca.edu.sv)
 
 ---
+
